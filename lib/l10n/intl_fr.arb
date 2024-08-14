@@ -1,0 +1,15 @@
+{
+  "@@locale": "fr",
+  "app_title": "Calculatrice",
+  "sign_up": "S'inscrire",
+  "login": "Se connecter",
+  "calculator": "Calculatrice",
+  "sync_contacts": "Synchroniser les contacts",
+  "contact_list": "Liste de contacts",
+  "settings_account": "Paramètres & Compte",
+  "select_from_gallery": "Sélectionner de la galerie",
+  "take_a_picture": "Prendre une photo",
+  "language": "Langue",
+  "dark_mode": "Mode sombre"
+
+}

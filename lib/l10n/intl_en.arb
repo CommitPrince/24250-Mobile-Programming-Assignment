@@ -1,0 +1,16 @@
+{
+
+
+  "@@locale": "en",
+  "app_title": "Calculator",
+  "sign_up": "Sign Up",
+  "login": "Login",
+  "calculator": "Calculator",
+  "sync_contacts": "Sync Contacts",
+  "contact_list": "Contact List",
+  "settings_account": "Settings & Account",
+  "select_from_gallery": "Select from Gallery",
+  "take_a_picture": "Take a Picture",
+  "language": "Language",
+  "dark_mode": "Dark Mode"
+}
